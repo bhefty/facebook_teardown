@@ -46,7 +46,7 @@ The key user is someone looking to be involved in social media and connecting wi
 
 ### 4. For your top user goal, what is likely to make the user's experience particularly satisfying?
 
-explain
+The primary goal of consuming recent activity from friends is immediately available upon login, with no additional clicks necessary.
 
 ### 5. To accomplish this goal, how does the user flow through the site's architecture? (ie. which pages are visited and what are clicked?)
 
