@@ -70,47 +70,55 @@ I would maybe add something additional to the lower left column to help balance 
 ## News Feed Page
 ### 1. Visual hierarchy - What areas are denser and what areas are more sparse?
 
+![alt text](./assets/visual_news.png "Facebook News Feed - Visual Hierarchy")
 
+The left and right columns aren't as dense as the center.
 
 ### 2. Who is the most likely user of this page?
 
+Anyone who logs into Facebook will see this page first.
 
 ### 3. What is that user's critical goal on this page?
 
+The goal would be to view friend's recent activities.
 
 ### 4. Does the visual hierarchy you sketched lead to that goal?
 
+Yes. Upon reaching this page the content is immeidatley available in the center column.
 
 ### 5. Do the relationships between elements lead you to that goal?
 
 _Contrast_
 
->
+> The navbar items, in particular the icons to the right, are a darker blue when there is nothing of note. However, in the case of a notification for instance, the icon turns white bringing attention to itself. Friend's posts have darker and bolder content drawing the user's eye to the center as well.
 
 _Repetition_
 
->
+> There is a "card" like structure to the center and right columns. It gives a quick appearance of consistency even though each piece is fundamentally different.
 
 _Alignment_
 
->
+> The page is divided up into three columns. The left column is the smallest and provides additional navigation. The center is the largest and contains the content the user looks for primarily. The right column contains ads or other links the user may find interesting.
 
 _Proximity_
 
->
+> There is a good spacing between items. Within the "cards" there is enough spacing to let the content of the post be the center of attention while not over-doing it.
 
 ### 6. What font families are most prominent on the page?
 
+Helvetica is the primary font family.
 
 ### 7. What do these font families contribute to or take away from the site's flow?
 
+The use of a single font family makes it a very uniform feel across the entire page. Making use of bold or different colors in the font provide an effective way of splitting up content.
 
 ### 8. How do the line spacings, sizes and weights contribute to or take away from the site's flow?
 
+Line spacing feels a little tight on the left and right columns.
 
 ### 9. What would you improve to achieve a better hierarchy or flow?
 
-
+There is a "Create" section on the left navigation area that doesn't quite seem to fit the styling of the other links on that side of the page. It is just a row of text links, with "Fundraiser" being text-wrapped to the next line.
 
 ---
 
