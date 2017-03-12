@@ -1,9 +1,13 @@
 # Facebook Design Teardown
 
 [Home Page](#home-page)
+
 [News Feed Page](#news-feed-page)
+
 [Profile Page](#profile-page)
+
 [About Page](#about-page)
+
 [Photos Page](#photos-page)
 
 ---
