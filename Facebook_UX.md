@@ -50,7 +50,7 @@ explain
 
 ### 5. To accomplish this goal, how does the user flow through the site's architecture? (ie. which pages are visited and what are clicked?)
 
-image here
+![alt text](./assets/facebook_nav.png "Facebook Flow")
 
 ### 6. What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)?
 
