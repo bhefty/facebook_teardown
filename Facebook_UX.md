@@ -54,12 +54,14 @@ The primary goal of consuming recent activity from friends is immediately availa
 
 ### 6. What style(s) of navigation is/are used? Do they answer the key questions (Where am I and how did I get here? Where should I go next and how do I get there?)?
 
-explain
+A top navigation bar is used across all pages providing consistency and making it easy for the user to know where to go next. The navbar provides the Facebook logo linking back to the Home page, a search bar, link to the user's profile, another Home button link explicitly spelled out as 'Home', a 'Find Friends' button, as well as several other icon based buttons: Friends, Messages, Notifications and Quick Help.
+
+There is no visual indication on the navbar to show what page the user is currently on, though the 'cards' present on the page do a decent job of providing this information.
 
 ### 7. What does Facebook do well to allow the user to accomplish the top goal effectively, efficiently and with good satisfaction?
 
-explain
+The News Feed is the first and foremost prominent bit of content made available upon loging in. This makes it extremely quick and easy for the user to jump right in and begin reading.
 
 ### 8. What does Facebook do poorly when allowing the user to accomplish the top goal effectively, efficiently and with good satisfaction?
 
-explain
+Advertisements can cause distractions, particular between the right-most column and the Suggested Posts that appear in the News Feed.
