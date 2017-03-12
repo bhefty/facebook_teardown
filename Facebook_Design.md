@@ -21,16 +21,20 @@ Yes, it is obvious that the page wants the user to sign up for an account.
 
 ### 5. Do the relationships between elements lead you to that goal?
 
-_Contrast_
+-_Contrast_
+
 The CTA (Signing Up) takes up a large part of the screen and is the most dense of the two columns. The large green "Create Account" button at the bottom also draws attention as to the purpose of the page. Meanwhile the "Login" button seems to blend into the top bar so that only repeat users will immediatley notice it.
 
-_Repetition_
+-_Repetition_
+
 The sign up form feels consistent in the style and use of font family.
 
-_Alignment_
+-_Alignment_
+
 The entire right column contains everything left-aligned that is needed to create a new account. It makes it feel like a seamless flow.
 
-_Proximity_
+-_Proximity_
+
 The spacing and alignment of items give the sense of separation of items without visible divider sections.
 
 ### 6. What font families are most prominent on the page?
