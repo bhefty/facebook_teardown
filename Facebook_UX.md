@@ -13,6 +13,36 @@ The key user is someone looking to be involved in social media and connecting wi
 ### 3. What is the site's approximate information architecture?
 
 ![alt text](./assets/facebook_ia.png "Facebook Information Architecture")
+```
+|-- Sign Up / Sign In
+    |-- Home
+        |-- Search
+        |-- Create Post
+        |-- News Feed
+            |-- Read Comments
+            |-- More Comments
+            |-- Comment
+            |-- Like
+            |-- Share
+        |-- Chat
+        |-- Messages
+        |-- Friend Requests
+        |-- Profile
+            |-- Timeline
+            |-- About
+            |-- Friends
+            |-- Photos
+            |-- ...more
+        |-- Read Notifications
+        |-- Find Friends
+        |-- Explore
+            |-- Events
+            |-- Pages
+            |-- Groups
+            |-- Games
+            |-- ...more
+        |-- Quick Help
+```
 
 ### 4. For your top user goal, what is likely to make the user's experience particularly satisfying?
 
