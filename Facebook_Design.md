@@ -125,47 +125,55 @@ There is a "Create" section on the left navigation area that doesn't quite seem 
 ## Profile Page
 ### 1. Visual hierarchy - What areas are denser and what areas are more sparse?
 
+![alt text](./assets/visual_profile.png "Facebook Profile - Visual Hierarchy")
 
+The left 2/3 of the page is more dense than the far right ribbon which lists when friends were last online.
 
 ### 2. Who is the most likely user of this page?
 
+Someone looking to connect with or gather more information on the person's profile in question.
 
 ### 3. What is that user's critical goal on this page?
 
+Gather information based on the user's profile.
 
 ### 4. Does the visual hierarchy you sketched lead to that goal?
 
+Yes, there are quick links near the top to view recent activity, get information about the user, look at their friends and also view their photos.
 
 ### 5. Do the relationships between elements lead you to that goal?
 
 _Contrast_
 
->
+> The first and foremost attention-getter is the user's banner image and profile avatar. The links below this are easy to notice and stand out enough to assist in the primary goal.
 
 _Repetition_
 
->
+> Similar to the News Feed page, there are repeating "cards" that make up the bulk of the design.
 
 _Alignment_
 
->
+> The left-most column is dedicated to specific information regarding the user's profile. The center has post feeds, and the far right column is small enough to be unobtrusive.
 
 _Proximity_
 
->
+> There is good spacing between all items to provide readability and flow.
 
 ### 6. What font families are most prominent on the page?
 
+Helvetica is once again the prominent font family.
 
 ### 7. What do these font families contribute to or take away from the site's flow?
 
+Keeping with the Helvetica theme maintains the sense of consistency throughout the pages.
 
 ### 8. How do the line spacings, sizes and weights contribute to or take away from the site's flow?
 
+The spacing does a good job at differentiating between segments of content on the page.
 
 ### 9. What would you improve to achieve a better hierarchy or flow?
 
-
+At first I thought there was too much space between the center column and the far right online status field, but it actually does a good job of keeping that content out of sight unless the user is looking for it.
 
 ---
 
