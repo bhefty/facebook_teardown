@@ -15,10 +15,10 @@ The key user is someone looking to be involved in social media and connecting wi
 ![alt text](./assets/facebook_ia.png "Facebook Information Architecture")
 ```
 |-- Sign Up / Sign In
-    |-- Home
+    |-- News Feed / Home
         |-- Search
         |-- Create Post
-        |-- News Feed
+        |-- News Feed / Home
             |-- Read Comments
             |-- More Comments
             |-- Comment
