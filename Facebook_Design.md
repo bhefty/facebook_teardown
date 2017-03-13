@@ -236,46 +236,52 @@ Flow is good, nothing I could think of improving.
 ## Photos Page
 ### 1. Visual hierarchy - What areas are denser and what areas are more sparse?
 
+![alt text](./assets/visual_photos.png "Facebook Photos - Visual Hierarchy")
 
+The left 2/3 of the page is extremely heavy.
 
 ### 2. Who is the most likely user of this page?
 
+A user wanting to view photos/videos of another person.
 
 ### 3. What is that user's critical goal on this page?
 
+Look at another user's photos.
 
 ### 4. Does the visual hierarchy you sketched lead to that goal?
 
+Yes, the primary card on this page is a long scrolling list of photo thumbnails.
 
 ### 5. Do the relationships between elements lead you to that goal?
 
 _Contrast_
 
->
+> The actual links for creating new albums or uploading photos blends in nicely with the background of the card, indicating that the primary goal is not necessarily to add images from here.
 
 _Repetition_
 
->
+> Each image thumbnail is identical in size and shape.
 
 _Alignment_
 
->
+> The list of image thumbnails are all equal in size so the alignment is more justified without excessive margins.
 
 _Proximity_
 
->
+> There is a small amount of padding between each thumbnail.
 
 ### 6. What font families are most prominent on the page?
 
+Helvetica as other pages are.
 
 ### 7. What do these font families contribute to or take away from the site's flow?
 
+Consistent Helvetica font family throughout the pages make the experience feel familiar.
 
 ### 8. How do the line spacings, sizes and weights contribute to or take away from the site's flow?
 
+The thumbnail sizes are a nice size and do a good job of keeping people's faces in the crop.
 
 ### 9. What would you improve to achieve a better hierarchy or flow?
 
-
-
----
+Nothing, I think the design is very nice!
