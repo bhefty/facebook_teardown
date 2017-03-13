@@ -180,47 +180,56 @@ At first I thought there was too much space between the center column and the fa
 ## About Page
 ### 1. Visual hierarchy - What areas are denser and what areas are more sparse?
 
+![alt text](./assets/visual_about.png "Facebook About - Visual Hierarchy")
 
+The left 3/4 of the page is a lot more dense than the right.
 
 ### 2. Who is the most likely user of this page?
 
+Someone looking to get more information about a particular user.
 
 ### 3. What is that user's critical goal on this page?
 
+Get information such as where the person went to school or where they work.
 
 ### 4. Does the visual hierarchy you sketched lead to that goal?
 
+Yes, the first card contains easy to access information for this purpose.
 
 ### 5. Do the relationships between elements lead you to that goal?
 
 _Contrast_
 
->
+> The navigaiton within the About card contains light gray text when out of focus and darker text when selected. This makes it easy to see which information the user is looking at.
 
 _Repetition_
 
->
+> Wide cards take up the bulk of the page and each one is similar in structure.
 
 _Alignment_
 
->
+> The left 2/3 of the page make up the primary content while the far right shows current online friends.
 
 _Proximity_
 
->
+> Good spacing on the About card made it easy to get information fast.
 
 ### 6. What font families are most prominent on the page?
 
+Helvetica is still used as on other pages.
 
 ### 7. What do these font families contribute to or take away from the site's flow?
+
+Consistent design throughout all pages.
 
 
 ### 8. How do the line spacings, sizes and weights contribute to or take away from the site's flow?
 
+Spacing is good. I think the larger cards make good use of space on the page.
 
 ### 9. What would you improve to achieve a better hierarchy or flow?
 
-
+Flow is good, nothing I could think of improving.
 
 ---
 
