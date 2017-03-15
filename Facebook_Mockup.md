@@ -1,41 +1,14 @@
 # Facebook Mockup
 
-[Home Page](#home-page)
+The following links are to PDF renderings of the mockups.
 
-[News Feed Page](#news-feed-page)
 
-[Profile Page](#profile-page)
+[Home Page](./assets/mockup_home.pdf)
 
-[About Page](#about-page)
+[News Feed Page](./assets/mockup_new_feed.pdf)
 
-[Photos Page](#photos-page)
+[Profile Page](./assets/mockup_profile.pdf)
 
----
+[About Page](./assets/mockup_about.pdf)
 
-## Home Page
-
-![alt text](./assets/mockup_home.pdf "Facebook Home - Mockup")
-
----
-
-## News Feed Page
-
-![alt text](./assets/mockup_new_feed.pdf "Facebook News Feed - Mockup")
-
----
-
-## Profile Page
-
-![alt text](./assets/mockup_profile.pdf "Facebook Profile - Mockup")
-
----
-
-## About Page
-
-![alt text](./assets/mockup_about.pdf "Facebook About - Mockup")
-
----
-
-## Photos Page
-
-![alt text](./assets/mockup_photos.pdf "Facebook Photos - Mockup")
+[Photos Page](./assets/mockup_photos.pdf)
